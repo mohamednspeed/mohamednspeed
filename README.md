@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mohamednspeed
 - 👀 I’m interested in anime,cars and programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and data analysis 
